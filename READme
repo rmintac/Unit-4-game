@@ -1,0 +1,19 @@
+Crystal Collector
+
+Random number generated and presented to player
+
+player has a choice of four Crystals each with a randomly generated hidden number assigned to them
+
+New Random number generated every time after win or loss
+
+Player clicks a crystal of their choice and this adds the random number generated assigned to the crystal
+
+random crystal numbers are between 1 and 12
+
+Must click on crystals w random hidden numbers until player hits the same random generated number
+
+If you go over its a loss and game starts over
+
+if you get equal to the computer choice its a win and game starts over.
+
+
